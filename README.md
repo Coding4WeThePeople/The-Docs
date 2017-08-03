@@ -13,11 +13,3 @@ The process
 apprendre à lire un code source pour comprendre comment fonctionne une app
 tests driven developpement
 programming skills
-
-
-# Tasks
-
-1- Slack logo, Github integration, description & wiki
-2- Discord Set Up channel
-3- Twitter, Invision app, wordpress, others apps, share stuff
-4- Ressources sharing
